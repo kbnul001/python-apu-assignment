@@ -1,0 +1,11 @@
+1001,Toyota Axio,4,Fair,White,80,10,1
+1002,Toyota Axio Hybrid,4,Good,Mate Black,100,12,1
+1003,Superior Allion,5,Good,White,120,12,1
+1004,Axio 13,4,Very Good,White,80,10,1
+1005,Toyota Premio,4,Fair,Grey,140,12,0
+1006,Toyota Noah Hybrid,11,Blue,Good,150,12,1
+1007,Hundai H1,11,Excellent,Black,200,15,0
+1008,Nishan Civilian,28,Excellent,Navy Blue,300,20,1
+1009,Green Line,32,Excellent,Green,500,20,1
+1010,Alien 13,4,Good,White,100,10,1
+1011,Alien 19,5,Very GOod,Black,120,12,1
